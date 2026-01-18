@@ -58,10 +58,18 @@
   </a>
 </p>
 
+<!-- <p align="center">
+  <img src="https://leetcard.jacoblin.cool/Deeks11?theme=light&font=Nunito&ext=heatmap" /> -->
+<!-- <p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=Deeks11&theme=light" /> -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Deeks11?theme=light&font=Nunito&ext=heatmap" />
+  <img src="https://img.shields.io/badge/DSA-Active_Practice-DAF5E3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-LeetCode-FFF4E6?style=for-the-badge&logo=leetcode" />
 </p>
 
+</p>
+
+</p>
 
 ---
 
